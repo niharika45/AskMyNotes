@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-python -multipart
-notepad requirements.txt
+python-multipart
+pydantic
